@@ -10,6 +10,7 @@ In CartPole-v1, a pole is attached by an un-actuated joint to a cart, which move
 * Push Left: Given the action "0" the cart is pushed to the left. 
 * Push Right: Given the action "1" the cart is pushed to the right.
 
+![Screenshot](CartPole.png)
 
     
 ### Policy Gradient
