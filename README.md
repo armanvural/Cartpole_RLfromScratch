@@ -1,4 +1,4 @@
-# CartPole_RLfromScratch
+# RLfromScratch_CartPole
 ## Policy Gradient and DQN methods on Cartpole-v1 gym environment 
 
 
@@ -15,12 +15,14 @@ In CartPole-v1, a pole is attached by an un-actuated joint to a cart, which move
     
 ### Policy Gradient
 After 10000 training episodes the agent is able to reach and maintain the maximum possible rewards. 
+
 The trained agent's SMA Cumulative Rewards vs Episodes Plot 
 
 ![Screenshot](SMA_Deep_PolicyGradient.jpg)
 
 ### Deep Q-Network
 After 4000 training episodes the agent is able to reach and maintain the maximum possible rewards. 
+
 The trained agent's SMA Cumulative Rewards vs Episodes Plot 
 
 ![Screenshot](SMA_Deep_DQN.jpg)
